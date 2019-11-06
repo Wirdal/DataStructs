@@ -38,10 +38,11 @@ def parenChecker(string):
 def parenCheckerTest():
     pass
 
-    
+
 # 3.3.5
 def main():
     pass
 
 if __name__ == "__main__":
+    parenCheckerTest()
     main()
